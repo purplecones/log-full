@@ -1,6 +1,6 @@
 {
   "name": "log-full",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Utility to output entire objects to the console instead of the slimmed down version",
   "main": "index.js",
   "repository": "https://github.com/purplecones/log-full.git",
