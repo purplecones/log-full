@@ -2,11 +2,12 @@ Occasionally I find myself needing to log out deeply nested objects to the conso
 
 This package will help you to log objects down to any number of levels.
 
+![`log-full` package outputting deeply nested JSON object](log-full-output.png)
+
 # Installation
 Add package to your project
 
 `yarn add log-full`
-
 
 Import the package in your code. Preferably at the beginning of your app.
 
