@@ -1,6 +1,6 @@
 const util = require('util');
 
-console.full = function (data, options = null) {
+console.logFull = function (data, options = null) {
   if (!options) {
     options = {
       depth: 4,
