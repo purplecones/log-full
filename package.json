@@ -1,11 +1,10 @@
 {
   "name": "log-full",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Utility to output entire objects to the console instead of the slimmed down version",
   "main": "index.js",
   "repository": "https://github.com/purplecones/log-full.git",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Mirza Joldic",
   "license": "MIT"
 }
